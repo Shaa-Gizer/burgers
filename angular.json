@@ -25,7 +25,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/lottie-player.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -93,9 +95,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [
-              "src/assets/lottie-player.js"
-            ]
+            "scripts": []
           }
         }
       }
