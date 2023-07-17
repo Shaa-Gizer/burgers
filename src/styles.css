@@ -47,7 +47,7 @@ body {
   cursor: pointer;
   outline: none;
   font-size: 18px;
-  color: #191411;;
+  color: #191411;
 }
 
 .button:hover {
@@ -59,3 +59,4 @@ body {
   color: gray;
   background: #343434;
 }
+
